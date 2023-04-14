@@ -1,0 +1,16 @@
+.flex{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.center{
+    justify-content: center;
+    align-items: center;
+}
+.capital{
+    text-transform: uppercase;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
